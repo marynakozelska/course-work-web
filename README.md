@@ -55,3 +55,5 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Технології
 - HTML, CSS
 - Angular
+
+Backend частину додатку можна знайти [тут](https://github.com/marynakozelska/course-work)
