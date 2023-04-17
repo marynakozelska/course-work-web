@@ -22,7 +22,10 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ### Головна сторінка
 
 ![main_1](https://user-images.githubusercontent.com/107997135/232537796-1bc0a287-0e5e-42c3-afc6-073134715217.jpg)
+
 ![main_2](https://user-images.githubusercontent.com/107997135/232537950-34164aaf-bf8b-4199-87b3-a2428df5a3ca.jpg)
+
+Якщо оголошення не активне, то на головній сторінці воно буде відображатись з прозорістю 50% та без можливості відкрити розгорнуту його версію:
 ![main_3](https://user-images.githubusercontent.com/107997135/232537988-2796893d-627d-4d1a-8e37-cedf61756d95.jpg)
 
 ### Підвал сайту
@@ -40,11 +43,13 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ### Сторінка помилки
 
+Ця сторінка відображається якщо оголошення за вказаним в адресі id не було знайдене:
 ![error](https://user-images.githubusercontent.com/107997135/232538446-b341a4ad-65e5-4c68-af26-015f7ce04051.jpg)
 
 ### Сторінка "Про нас"
 
 ![about_1](https://user-images.githubusercontent.com/107997135/232538573-a82d622c-d841-4cb1-b62f-b356528adb91.jpg)
+
 ![about_2](https://user-images.githubusercontent.com/107997135/232538613-2689c37f-d1fe-46f9-8402-536b9c54232a.jpg)
 
 ## Технології
